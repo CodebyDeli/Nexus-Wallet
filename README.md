@@ -14,3 +14,4 @@ pnpx wrangler types = for tsconfig.worker.json error to create the worker-config
 pnpm install jsonwebtoken
 pnpm install -D @types/jsonwebtoken
 pnpm install -D @cloudflare/workers-types
+TEST PAGE
