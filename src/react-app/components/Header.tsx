@@ -1,5 +1,6 @@
 import { Wallet, LogOut, Menu } from "lucide-react";
 
+
 interface User {
   email: string;
   name?: string;
