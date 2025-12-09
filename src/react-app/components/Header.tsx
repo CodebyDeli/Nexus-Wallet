@@ -12,6 +12,8 @@ interface HeaderProps {
   logout: () => void;
 }
 
+
+
 export default function Header({ user, logout }: HeaderProps) {
   return (
     <header className="border-b border-white/10 bg-white/5 backdrop-blur-sm sticky top-0 z-50">
